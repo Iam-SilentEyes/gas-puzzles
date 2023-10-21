@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.15;
 
-//@dev creating a library for the strcuts saved a ton of gas
+//@dev creating a library for the structs saved a ton of gas
 
 library VoteLibrary {
     struct Voter {
